@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AroundLight
+  - Collectable
+  - Path
+  - Police
+  - Bonfire
+  - HiddenFlame
+  - PlayerKey
+  - FinalPath
+  - StageGate
+  - Audio
+  - Shadow
+  - DeadMessage1
+  - ButtonToRetry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Players
+  - Water
+  - UI
+  - Obstacles
+  - Shadows
+  - FlashLights
+  - Bonfire
+  - Glow
+  - Polices
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

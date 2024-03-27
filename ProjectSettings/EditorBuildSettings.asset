@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fc0a9cfd4b09d0d479d548d2b766d771
+  - enabled: 1
+    path: Assets/Scenes/Level_1.1.unity
+    guid: c67120c682d07184f9e5337899b7b38c
+  - enabled: 1
+    path: Assets/Scenes/Level_1.2.unity
+    guid: d6d734be368e61641ace9a518bcbb398
+  - enabled: 1
+    path: Assets/Scenes/Level_1.3.unity
+    guid: 3f5f8db09c6addf4581cb5bc704f4fda
+  - enabled: 1
+    path: Assets/Scenes/Level_1.4.unity
+    guid: e6e86fcab9b05f642877004aa41b1fcd
+  - enabled: 1
+    path: Assets/Scenes/Level_1.5.unity
+    guid: 7c4b4d0b7949020408c6ba9f6f8aab8a
+  - enabled: 1
+    path: Assets/Scenes/StageClear.unity
+    guid: e126b7f4bea0ffc42b2d8e8ec38b06ed
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: f1d95cc1285e2cb4e8a1a923d6d39532,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 988b7828b86a3e849b6c5e9b5999f332, type: 2}
